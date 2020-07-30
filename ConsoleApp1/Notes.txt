@@ -7,4 +7,24 @@
 
 * Run app with Ctrl + f5 so the windows don't closes immediately.
 
-*jj
+DATABASE
+* Download SQL Server Developer edition (scroll down): https://www.microsoft.com/en-us/sql-server/sql-server-downloads
+* Download and install SSMS.
+
+* Integrated security = true (user running app will login, must have permission in DB)
+* Integrated Security = false (must explicity specify user, e.g. sa)
+
+Nuget:
+Browse-> System.Data.SqlClient
+
+CODE examples:
+* (using SQLclient as dataprovider)
+* https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/ado-net-code-examples#sqlclient
+* https://stackoverflow.com/questions/13573380/inserting-values-into-a-sql-server-database-using-ado-net-via-c-sharp
+
+Good read:
+https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/sql/linq/ado-net-and-linq-to-sql?redirectedfrom=MSDN
+https://www.tutorialspoint.com/linq/linq_sql.htm
+
+DB:
+* Mixed Mode Authentication - turn on
