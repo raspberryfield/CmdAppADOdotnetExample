@@ -1,0 +1,10 @@
+
+* Download Visual Studio 2019 - https://visualstudio.microsoft.com/downloads/ community edition.
+* Use Visual Studio Installer to launch or update Visual Studio instances.
+* In VS -> Extensions -> search for github. Install.
+* Create new empty VS project. -> Create Github repo.
+* In Team explorer, add a solution ("new") to the repo.
+
+* Run app with Ctrl + f5 so the windows don't closes immediately.
+
+*jj
