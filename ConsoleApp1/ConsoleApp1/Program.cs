@@ -1,6 +1,6 @@
 ﻿using System;
 
-/*This console application provides a little command line interface to test you database connaction.*/
+/*This console application provides a little command line interface to test you database connection.*/
 
 namespace ConsoleApp1
 {
@@ -9,12 +9,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             PrintGreeting();
-
-
             InputHandler.MainMenu();
-            
-            
-
             Console.ReadLine();
         }
 

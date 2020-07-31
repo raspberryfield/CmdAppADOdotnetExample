@@ -54,6 +54,7 @@ namespace ConsoleApp1
                 var server = Console.ReadLine();
                 Console.Write("Name of Database: ");
                 var database = Console.ReadLine();
+                //TODO: add choice for SSPI or false integrated security.
                 Console.Write("Username: ");
                 var username = Console.ReadLine();
                 Console.Write("Password: ");
