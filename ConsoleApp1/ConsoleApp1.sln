@@ -3,14 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{72613E0D-D229-413F-B7EC-187C36BCC663}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{72613E0D-D229-413F-B7EC-187C36BCC663}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8442A2EC-0D18-4CFA-A703-FA7E7102440C}"
 	ProjectSection(SolutionItems) = preProject
 		Notes.txt = Notes.txt
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{641D905F-92A7-49B1-87D0-DA7E055ABAB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{641D905F-92A7-49B1-87D0-DA7E055ABAB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp3", "ConsoleApp3\ConsoleApp3.csproj", "{AB758660-357B-45D7-BFF0-311A57537334}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +28,10 @@ Global
 		{641D905F-92A7-49B1-87D0-DA7E055ABAB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{641D905F-92A7-49B1-87D0-DA7E055ABAB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{641D905F-92A7-49B1-87D0-DA7E055ABAB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB758660-357B-45D7-BFF0-311A57537334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB758660-357B-45D7-BFF0-311A57537334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB758660-357B-45D7-BFF0-311A57537334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB758660-357B-45D7-BFF0-311A57537334}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

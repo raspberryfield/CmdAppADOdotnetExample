@@ -27,5 +27,15 @@ Good read:
 https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/sql/linq/ado-net-and-linq-to-sql?redirectedfrom=MSDN
 https://www.tutorialspoint.com/linq/linq_sql.htm
 
+https://docs.microsoft.com/en-us/dotnet/api/system.data.sqlclient.sqlcommand.prepare?view=dotnet-plat-ext-3.1
+
+Difference Executenonquery vs. ExecuteQuery:
+https://www.dotnetspider.com/forum/52826-What-is-e-difference-between-ExecuteQuery-and-Ex
+
+
 DB:
 * Mixed Mode Authentication - turn on
+
+#ABOUT
+ConsoleApp1
+* Command line based test tool for database connectivity - example with 'sa'.
